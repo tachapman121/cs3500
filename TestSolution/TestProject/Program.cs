@@ -18,7 +18,7 @@ namespace TestProject
 
         void test()
         {
-
+            int testBrach;
         }
     }
 }
